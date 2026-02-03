@@ -1,0 +1,9 @@
+# Python
+__pycache__/
+*.pyc
+backend/venv/
+backend/hrsmbackend/db.sqlite3
+
+# React
+frontend/my-app/node_modules/
+frontend/my-app/build/
